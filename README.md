@@ -5,8 +5,7 @@
 Developed an interactive **Sales Performance Dashboard** using Microsoft Excel to analyze sales revenue, product performance, transactions, and business trends. The project demonstrates practical skills in data preparation, cleaning, analysis, reporting, and visualization.
 
 ## Dashboard Preview
-
-![Sales Dashboard](Sales_Dashboard_Portfolio.png)
+![Sales Dashboard](Sales_Dashboard/Sales_Dashboard_Performances.png)
 
 ## Key Performance Indicators (KPIs)
 
@@ -41,7 +40,7 @@ Developed an interactive **Sales Performance Dashboard** using Microsoft Excel t
 
 ## How to Use
 
-1. Download `Sales_Performance_Dashboard.xlsx` from this GitHub repository.
+1. Download [Sales Performance Dashboard Excel Workbook](Sales_Dashboard/Sales_Performance_Dashboard.xlsx.XLSX) from this GitHub repository.
 2. Open the workbook using **Microsoft Excel Desktop**.
 3. If Excel displays a **Protected View** warning, click **Enable Editing** if you trust the downloaded file.
 4. Select the **Dashboard** worksheet.
