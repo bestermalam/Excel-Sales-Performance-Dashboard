@@ -37,12 +37,19 @@ Developed an interactive **Sales Performance Dashboard** using Microsoft Excel t
 - **KPI Analysis:** Calculating revenue, transactions, quantities, and sales statistics.
 - **Dashboard Design:** Building professional, interactive business reports.
 
+
+
 ## How to Use
 
-1. Download `Sales_Performance_Dashboard.xlsx`.
-2. Open the workbook in Microsoft Excel.
-3. Select the **Dashboard** worksheet.
-4. Use the slicers to explore sales performance.
+1. Download `Sales_Performance_Dashboard.xlsx` from this GitHub repository.
+2. Open the workbook using **Microsoft Excel Desktop**.
+3. If Excel displays a **Protected View** warning, click **Enable Editing** if you trust the downloaded file.
+4. Select the **Dashboard** worksheet.
+5. Use the **Product, Category, City, and Salesperson slicers** to filter sales data.
+6. Observe how the charts and KPI values update automatically.
+7. Click the **Clear Filter (red X)** icon on each slicer to restore the full sales results.
+
+**Important:** Interactive slicers may not function while the workbook is in Protected View. Enable Editing after verifying that the file is from a trusted source.
 
 ## Project Purpose
 
