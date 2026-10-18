@@ -40,7 +40,7 @@ Developed an interactive **Sales Performance Dashboard** using Microsoft Excel t
 
 ## How to Use
 
-1. Download [Sales Performance Dashboard Excel Workbook](Sales_Dashboard/Sales_Performance_Dashboard.xlsx.XLSX) from this GitHub repository.
+1. Download [Sales Performance Dashboard Excel Workbook](Sales_Dashboard/Sales_Performance_Dashboard.xlsx) from this GitHub repository.
 2. Open the workbook using **Microsoft Excel Desktop**.
 3. If Excel displays a **Protected View** warning, click **Enable Editing** if you trust the downloaded file.
 4. Select the **Dashboard** worksheet.
